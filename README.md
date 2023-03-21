@@ -53,5 +53,16 @@ Amazon data analytics director wanted to hire someone who extract the insights w
 - It gives a detailed insight into the various trends
 
 
+##  Amazon Sales Report Dashboard
+
+The SalesInDashboard.pdf file shows on the Dashboard looks like:
+<img width="604" alt="dscazn" src="https://user-images.githubusercontent.com/125743309/226530993-00effb53-0917-461c-ab16-c38bd2f33fe1.png">
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at singhachal338@gmail.com
+
+
  
  
