@@ -46,5 +46,12 @@ Amazon data analytics director wanted to hire someone who extract the insights w
  - What is the average return rate for products sold on Amazon during the dataset period? 
  - What is the most popular day of the week for customers to make purchases?
  - What is the average order value for customers during the dataset period?
+
+
+## Dashbaord features
+
+- It gives a detailed insight into the various trends
+
+
  
  
